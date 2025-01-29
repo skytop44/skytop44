@@ -1,7 +1,9 @@
 👋 Hi, I'm György!
 
 🚀 GIS Specialist | GIS Developer | PostgreSQL Expert
+
 I'm a GIS developer with over 10 years of experience in land surveying, GIS engineering, and database development. 
+
 My expertise lies in building, implementing, and visualizing PostgreSQL databases, particularly in utility-related fields.
 
 🔍 What I Do
